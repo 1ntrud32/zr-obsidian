@@ -1,6 +1,6 @@
-# RSS.md
+# LINKS.md
 
-https://github.com/iddoeldor/frida-snippets
+### [GitHub - iddoeldor/frida-snippets: Hand-crafted Frida examples · GitHub](https://github.com/iddoeldor/frida-snippets)
 
 
 
